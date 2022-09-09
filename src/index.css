@@ -198,3 +198,8 @@ button {
 .result {
   margin-bottom: 2rem;
 }
+.lorem-text,
+.lorem-title {
+  padding: 2rem;
+  text-align: center;
+}
